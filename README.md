@@ -35,19 +35,19 @@ This is a tool that will help you crack Instagram account very quickly.  This to
  
  
 ```bash
-$ apt update
-$ apt upgrade
-$ pkg install git
-$ pkg install python
-$ pkg install python2
-$ pip2 install mechanize
-$ pip2 install requests
-$ git clone https://github.com/Aryan-mfc/MAX
-$ cd MAX
-$ ls
-$ git pull
-$ chmod +x *
-$ python Max.py
+ apt update
+ apt upgrade
+ pkg install git
+ pkg install python
+ pkg install python2
+ pip2 install mechanize
+ pip2 install requests
+ git clone https://github.com/Aryan-mfc/MAX
+ cd MAX
+ ls
+ git pull
+ chmod +x *
+ python Max.py
 
  Tool Installation successful
 
