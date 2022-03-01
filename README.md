@@ -10,15 +10,26 @@ This is a tool that will help you crack Instagram account very quickly.  This to
 <div align="center">
   <img src="20220301_144452_492.jpeg" width="340" height="520"/>
 
+
+
+
 # Tool Features
 
 + This is a multi-password cracking tool
+
 + Passlist is not required
+
 + Automatic password identification
+
 + It is a simple interface
+
 + Cracking is very fast
+
 + The proxy list is included in the tool
+
 + Tor is not required
+
+
 
 ### Installation On Termux
  
