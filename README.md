@@ -2,6 +2,16 @@
  
 This is a tool that will help you crack Instagram account very quickly.  This tool is completely free.  You also need a cookie to run this tool.  You will understand how to get it when you run the tool
 
+# Tool Features
+
++ This is a multi-password cracking tool
++ Passlist is not required
++ Automatic password identification
++ It is a simple interface
++ Cracking is very fast
++ The proxy list is included in the tool
++ Tor is not required
+
 ### Installation On Termux
  
  
@@ -18,7 +28,7 @@ $ cd MAX
 $ ls
 $ git pull
 $ chmod +x *
-$ python Insta.py
+$ python Max.py
 
  Tool Installation successful
 
@@ -36,7 +46,7 @@ git clone https://github.com/Aryan-mfc/MAX
 cd MAx
 git pull
 chmod +x *
-python Insta.py
+python Max.py
 
  Tool Installation successful
 
@@ -51,7 +61,7 @@ git clone https://github.com/Aryan-mfc/MAX
 cd MAX 
 git pull
 chmod +x *
-python Insta.ppy
+python Max.ppy
 
 
 
@@ -77,7 +87,7 @@ git clone https://github.com/Aryan-mfc/MAX
 cd MAX
 git pull
 chmod +x *
-python Insta.py.py
+python Max.py
 
 Tool Installation successful
 
