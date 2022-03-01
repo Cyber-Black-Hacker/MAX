@@ -7,7 +7,7 @@ This is a tool that will help you crack Instagram account very quickly.  This to
  + Instant Result 
  + Auto Pass Identifying 
 
-<div align="center">
+
   <img src="20220301_144452_492.jpeg" width="340" height="520"/>
 
 
